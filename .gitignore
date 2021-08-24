@@ -1,0 +1,16 @@
+.vscode
+
+# Venv
+Ecommerce-Store-env
+.venv
+
+# Other
+*.pyc  
+*~  
+__pycache__  
+db.sqlite3  
+/static  
+.DS_Store  
+
+# Hide SECRET_KEY
+secret_settings.py
