@@ -3,6 +3,11 @@
 # Venv
 Ecommerce-Store-env
 .venv
+Lib/
+Scripts/
+pyvenv.cfg
+venv/
+
 
 # Other
 *.pyc  
